@@ -10,4 +10,4 @@ And a distance based one, that loosely mimics depth of field, but has no bokeh a
 
 **Installation:** Just drop it into your project and you will be able to select it when choosing an effect in your postprocessing volumes.
 
-Made with Unity 2018.2.14
+Tested with Unity 2019.1.3
