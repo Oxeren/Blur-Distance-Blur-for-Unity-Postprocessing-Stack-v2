@@ -2,8 +2,8 @@
 {
 	HLSLINCLUDE
 
-	#include "PostProcessing/Shaders/StdLib.hlsl"
-	#include "PostProcessing/Shaders/Sampling.hlsl"
+	#include "Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl"
+	#include "Packages/com.unity.postprocessing/PostProcessing/Shaders/Sampling.hlsl"
 
 	TEXTURE2D_SAMPLER2D(_MainTex, sampler_MainTex);
 	TEXTURE2D_SAMPLER2D(_CameraDepthTexture, sampler_CameraDepthTexture);
